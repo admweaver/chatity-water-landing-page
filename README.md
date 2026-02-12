@@ -1,7 +1,7 @@
 ```markdown
 # Chatity Water Landing Page
 
-A landing page for Chatity Water.
+A landing page for Chatity Water. git add README.md
 
 ## Overview
 
